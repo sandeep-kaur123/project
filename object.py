@@ -1,0 +1,5 @@
+print(isinstance(4,object))
+print(isinstance("Hello",object))
+print(isinstance(None,object))
+print(isinstance([1,2,3],object))
+print((128).__sizeof__())

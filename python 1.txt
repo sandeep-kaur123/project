@@ -1,0 +1,3 @@
+hello
+
+we are going to do programming in python.
